@@ -12,9 +12,7 @@ jobs:
       # replace with your preferred image
       - image: cimg/base:stable
     steps:
-      - osv_scanner/osv:
-          lockpath: config.yml 
-
+      - osv_scanner/install
 workflows:
   example-workflow:
     jobs:
