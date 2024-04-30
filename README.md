@@ -1,18 +1,3 @@
-<p align="center" margin="20 0"><a href="https://horusec.io/">
-    <img src="https://github.com/ZupIT/horusec-devkit/blob/main/assets/horusec_logo.png?raw=true"
-            alt="logo_header" width="65%" style="max-width:100%;"/></a></p>
-
-<p align="center">
-    <a href="https://github.com/ZupIT/horusec-engine/pulse" alt="activity">
-        <img src="https://img.shields.io/github/commit-activity/m/ZupIT/horusec-engine?label=activity"/></a>
-    <a href="https://github.com/ZupIT/horusec-engine/graphs/contributors" alt="contributors">
-        <img src="https://img.shields.io/github/contributors/ZupIT/horusec-engine?label=contributors"/></a>
-    <a href="https://github.com/ZupIT/horusec-engine/actions/workflows/security.yml" alt="security">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/horusec-engine/Security?label=security"/></a>
-    <a href="https://opensource.org/licenses/Apache-2.0" alt="license">
-        <img src="https://img.shields.io/badge/license-Apache%202-blue"/></a>
-
-# **Horusec Examples Vulnerabilities**
 
 ## **Table of contents**
 ### 1. [**About**](#about)
