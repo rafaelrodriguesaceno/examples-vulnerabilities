@@ -1,10 +1,4 @@
 
-## **Table of contents**
-### 1. [**About**](#about)
-### 2. [**Documentation**](#documentation)
-### 3. [**Contributing**](#contributing)
-### 4. [**License**](#license)
-### 5. [**Community**](#community)
 
 
 ## **About** 
