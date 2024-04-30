@@ -12,7 +12,11 @@ jobs:
       # replace with your preferred image
       - image: cimg/base:stable
     steps:
-      - osv_scanner/install
+      - osv_scanner/install:
+          release-version: '1.7.2' 
+          release-url: https://github.com/google/osv-scanner/releases 
+          release-osv: cimg/base:stable 
+
 workflows:
   example-workflow:
     jobs:
