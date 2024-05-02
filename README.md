@@ -1,18 +1,4 @@
-
-## **Table of contents**
-### 1. [**About**](#about)
-### 2. [**Documentation**](#documentation)
-### 3. [**Contributing**](#contributing)
-### 4. [**License**](#license)
-### 5. [**Community**](#community)
-
-
-## **About** 
-This repository contains some vulnerabilities examples for you to test Horusec's analysis.
-
-## **Documentation**
-
-For more information about Horusec, please check out the [**documentation**](https://docs.horusec.io).
+k out the [**documentation**](https://docs.horusec.io).
 
 
 ## **Contributing**
