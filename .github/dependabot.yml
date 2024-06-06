@@ -1,8 +1,8 @@
 version: 2
 updates:
-  - package-ecosystem: maven
+  - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: weekly
+      interval: daily
     autocreate-pull-requests:
       severity: [high, critical]
